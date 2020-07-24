@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sreerekhal1990/myapp/_apis/build/status/sreerekhal.myrepository?branchName=master)](https://dev.azure.com/sreerekhal1990/myapp/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
